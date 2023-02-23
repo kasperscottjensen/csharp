@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/bin/Debug/net7.0/nullprop-stringinterpol-patmatch
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/bin/Debug/net7.0/nullprop-stringinterpol-patmatch.deps.json
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/bin/Debug/net7.0/nullprop-stringinterpol-patmatch.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/bin/Debug/net7.0/nullprop-stringinterpol-patmatch.dll
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/bin/Debug/net7.0/nullprop-stringinterpol-patmatch.pdb
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.dll
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/refint/nullprop-stringinterpol-patmatch.dll
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.pdb
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/nullprop-stringinterpol-patmatch.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/nullprop-stringinterpol-patmatch/obj/Debug/net7.0/ref/nullprop-stringinterpol-patmatch.dll

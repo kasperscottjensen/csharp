@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/date-struct/bin/Debug/net7.0/date-struct
+/home/kasper/Documents/fourthsemester/csharp/date-struct/bin/Debug/net7.0/date-struct.deps.json
+/home/kasper/Documents/fourthsemester/csharp/date-struct/bin/Debug/net7.0/date-struct.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/date-struct/bin/Debug/net7.0/date-struct.dll
+/home/kasper/Documents/fourthsemester/csharp/date-struct/bin/Debug/net7.0/date-struct.pdb
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.dll
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/refint/date-struct.dll
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.pdb
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/date-struct.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/date-struct/obj/Debug/net7.0/ref/date-struct.dll
