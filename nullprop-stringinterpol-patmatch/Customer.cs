@@ -4,14 +4,14 @@ public class Customer
 {
 
     public String? name {get; set;}
-    public int? age {get; set;}
     public String? email {get; set;}
+    public int? age {get; set;}
 
-    public Customer(String name, int age, String email)
+    public Customer(String name, String email, int age = 0)
     {
         this.name = name;
-        this.age = age;
         this.email = email;
+        this.age = age;
     }
 
 }

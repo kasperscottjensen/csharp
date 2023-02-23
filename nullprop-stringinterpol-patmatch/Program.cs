@@ -10,9 +10,9 @@ public class Program
     public static void Main(String[] args)
     {
 
-        Customer customer01 = new Customer("John Doe", 30, "johndoe@email.dk");
-        Customer customer02 = new Customer("Jane Doe", 25, "janedoe@email.dk");
-        Customer customer03 = new Customer("Jim Smith", 35, null);
+        Customer customer01 = new Customer("John Doe", "johndoe@email.dk", 30);
+        Customer customer02 = new Customer("Jane Doe", "janedoe@email.dk", 25);
+        Customer customer03 = new Customer("Jim Smith", null, 35);
 
         Formatter(customer01);
         Formatter(customer02);
@@ -38,8 +38,7 @@ public class Program
             {
                 < 30 => "this person is from a younger generation",
                 30 => "this person is getting old",
-                > 30 => "there is no help for this one",
-                null => "no age to judge off of"
+                > 30 => "there is no help for this one"
             }
         ;
         

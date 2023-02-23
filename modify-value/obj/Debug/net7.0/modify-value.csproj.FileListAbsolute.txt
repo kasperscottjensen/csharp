@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/modify-value/bin/Debug/net7.0/modify-value
+/home/kasper/Documents/fourthsemester/csharp/modify-value/bin/Debug/net7.0/modify-value.deps.json
+/home/kasper/Documents/fourthsemester/csharp/modify-value/bin/Debug/net7.0/modify-value.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/modify-value/bin/Debug/net7.0/modify-value.dll
+/home/kasper/Documents/fourthsemester/csharp/modify-value/bin/Debug/net7.0/modify-value.pdb
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.dll
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/refint/modify-value.dll
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.pdb
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/modify-value.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/modify-value/obj/Debug/net7.0/ref/modify-value.dll

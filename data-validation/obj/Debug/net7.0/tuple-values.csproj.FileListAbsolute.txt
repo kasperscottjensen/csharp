@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/bin/Debug/net7.0/tuple-values
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/bin/Debug/net7.0/tuple-values.deps.json
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/bin/Debug/net7.0/tuple-values.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/bin/Debug/net7.0/tuple-values.dll
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/bin/Debug/net7.0/tuple-values.pdb
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.dll
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/refint/tuple-values.dll
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.pdb
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/tuple-values.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/tuple-values/obj/Debug/net7.0/ref/tuple-values.dll

@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/named-optional/bin/Debug/net7.0/named-optional
+/home/kasper/Documents/fourthsemester/csharp/named-optional/bin/Debug/net7.0/named-optional.deps.json
+/home/kasper/Documents/fourthsemester/csharp/named-optional/bin/Debug/net7.0/named-optional.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/named-optional/bin/Debug/net7.0/named-optional.dll
+/home/kasper/Documents/fourthsemester/csharp/named-optional/bin/Debug/net7.0/named-optional.pdb
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.dll
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/refint/named-optional.dll
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.pdb
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/named-optional.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/named-optional/obj/Debug/net7.0/ref/named-optional.dll
